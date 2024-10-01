@@ -88,4 +88,4 @@ console.log(c > 25 || d < 20);
 console.log(!a);
 console.log(!b);
 
-console.log('test');
+console.log('testjjj');
